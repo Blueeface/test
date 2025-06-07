@@ -1,0 +1,8 @@
+{
+    "name": "Sticker",
+    "author": "Benedict",
+    "prefix": "!",
+    "timezone": "Asia/Jakarta",
+    "groups": true,
+    "log": true
+}
